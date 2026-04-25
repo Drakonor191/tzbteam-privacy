@@ -42,7 +42,7 @@ De conformidad con el Reglamento (UE) 2016/679 (RGPD) y la Ley Orgánica 3/2018 
 
 **Responsable:** Alejandro Olid Gómez  
 **País:** España  
-**Contacto:** zamorabernal89@yahoo.com
+**Contacto:** privacytzbteam@gmail.com
 
 ---
 
