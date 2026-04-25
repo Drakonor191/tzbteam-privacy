@@ -128,7 +128,7 @@ De acuerdo con el RGPD y la LOPDGDD, el usuario tiene derecho a:
 - **Oposición:** Oponerse al tratamiento basado en interés legítimo.
 - **Retirada del consentimiento:** Retirar en cualquier momento el consentimiento prestado.
 
-Para ejercer cualquiera de estos derechos, incluida la **solicitud de eliminación completa de su cuenta y datos**, envíe un correo a zamorabernal89@yahoo.com indicando en el asunto «Ejercicio de derechos RGPD» y su nombre completo y correo asociado a la cuenta. Se atenderá la solicitud en un plazo máximo de 30 días naturales.
+Para ejercer cualquiera de estos derechos, incluida la **solicitud de eliminación completa de su cuenta y datos**, envíe un correo a privacytzbteam@gmail.com indicando en el asunto «Ejercicio de derechos RGPD» y su nombre completo y correo asociado a la cuenta. Se atenderá la solicitud en un plazo máximo de 30 días naturales.
 
 Si considera que el tratamiento de sus datos no es conforme a la normativa, tiene derecho a presentar una reclamación ante la **Agencia Española de Protección de Datos (AEPD)** en www.aepd.es.
 
@@ -161,7 +161,7 @@ En caso de detectarse una brecha de seguridad que afecte a sus datos, se le noti
 
 ## 12. Menores de edad
 
-La Aplicación no está dirigida a menores de 16 años. Si tiene conocimiento de que un menor ha proporcionado datos personales sin consentimiento parental, puede notificarlo en zamorabernal89@yahoo.com para proceder a su eliminación.
+La Aplicación no está dirigida a menores de 16 años. Si tiene conocimiento de que un menor ha proporcionado datos personales sin consentimiento parental, puede notificarlo en privacytzbteam@gmail.com para proceder a su eliminación.
 
 ---
 
@@ -209,7 +209,7 @@ Para la resolución de cualquier controversia, las partes se someten a los Juzga
 
 Para cualquier consulta sobre estos Términos, ejercicio de derechos o solicitud de eliminación de datos:
 
-**Email:** zamorabernal89@yahoo.com
+**Email:** privacytzbteam@gmail.com
 
 Indicar en el asunto el motivo de la consulta (ejercicio de derechos, eliminación de cuenta, consulta legal, etc.).
 
