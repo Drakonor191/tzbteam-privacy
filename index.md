@@ -11,7 +11,7 @@ La aplicación **TZBTEAM** ha sido desarrollada por **Alejandro Olid Gómez**, q
 
 El nombre comercial y la marca **TZBTEAM**, así como su logotipo, son titularidad de su creador original y se utilizan en la Aplicación bajo acuerdo entre las partes. El desarrollo técnico, la publicación en tiendas de aplicaciones y la responsabilidad frente a los usuarios corresponden en exclusiva a **Alejandro Olid Gómez**.
 
-Para cualquier consulta, ejercicio de derechos o solicitud de eliminación de datos: zamorabernal89@yahoo.com
+Para cualquier consulta, ejercicio de derechos o solicitud de eliminación de datos: privacytzbteam@gmail.com
 
 ---
 
