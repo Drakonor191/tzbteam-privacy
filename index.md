@@ -1,6 +1,6 @@
 # Política de Privacidad y Términos y Condiciones de TZBTEAM
 
-**Última actualización:** abril de 2026  
+**Última actualización:** abril de 2026
 **© 2026 Alejandro Olid Gómez. Todos los derechos reservados.**
 
 ---
@@ -11,7 +11,7 @@ La aplicación **TZBTEAM** ha sido desarrollada por **Alejandro Olid Gómez**, q
 
 El nombre comercial y la marca **TZBTEAM**, así como su logotipo, son titularidad de su creador original y se utilizan en la Aplicación bajo acuerdo entre las partes. El desarrollo técnico, la publicación en tiendas de aplicaciones y la responsabilidad frente a los usuarios corresponden en exclusiva a **Alejandro Olid Gómez**.
 
-Para cualquier consulta, ejercicio de derechos o solicitud de eliminación de datos: privacytzbteam@gmail.com
+Para cualquier consulta, ejercicio de derechos o solicitud de eliminación de datos: privacy@tzbteam.com
 
 ---
 
@@ -40,9 +40,9 @@ El titular se reserva el derecho de suspender o cancelar cuentas que incumplan e
 
 De conformidad con el Reglamento (UE) 2016/679 (RGPD) y la Ley Orgánica 3/2018 (LOPDGDD):
 
-**Responsable:** Alejandro Olid Gómez  
-**País:** España  
-**Contacto:** privacytzbteam@gmail.com
+**Responsable:** Alejandro Olid Gómez
+**País:** España
+**Contacto:** privacy@tzbteam.com
 
 ---
 
@@ -91,13 +91,13 @@ El cliente acepta expresamente esta cesión de visibilidad al registrarse y al i
 
 ## 6. Finalidad y base jurídica del tratamiento
 
-**Ejecución del contrato (art. 6.1.b RGPD):**  
+**Ejecución del contrato (art. 6.1.b RGPD):**
 Gestión de la cuenta de usuario, prestación de los servicios de seguimiento, comunicación entre cliente y profesional, gestión de citas y planes.
 
-**Consentimiento explícito (art. 6.1.a y art. 9.2.a RGPD):**  
+**Consentimiento explícito (art. 6.1.a y art. 9.2.a RGPD):**
 Tratamiento de datos de salud (peso, medidas, fotografías corporales). Por tratarse de datos de categoría especial, el usuario otorga su consentimiento explícito al registrarse y al introducir dicha información.
 
-**Interés legítimo (art. 6.1.f RGPD):**  
+**Interés legítimo (art. 6.1.f RGPD):**
 Mantenimiento de la seguridad de la plataforma, prevención del abuso y mejora del servicio.
 
 ---
@@ -116,19 +116,19 @@ Determinados datos se eliminan automáticamente antes:
 
 ## 8. Encargados del tratamiento y transferencias internacionales
 
-**Supabase, Inc. (EE. UU.)**  
+**Supabase, Inc. (EE. UU.)**
 Proveedor de base de datos, autenticación y almacenamiento de archivos. Los datos se alojan en servidores dentro de la Unión Europea. Supabase cumple con el RGPD y dispone de las salvaguardas adecuadas.
 
-**8×8, Inc. / Jitsi Meet (EE. UU.)**  
+**8×8, Inc. / Jitsi Meet (EE. UU.)**
 Plataforma de videollamadas utilizada en las citas. Solo se genera una URL única a partir del identificador de la cita, sin transmitir datos personales adicionales.
 
-**Expo (EE. UU.)**  
+**Expo (EE. UU.)**
 Plataforma de desarrollo de la Aplicación y proveedor del servicio de notificaciones push. Cuando se envía una notificación remota (avisos del profesional, recordatorios, confirmaciones de citas, vencimientos de cuota o mensajes), Expo recibe el token de notificación del dispositivo y el contenido del aviso (título y cuerpo) y lo retransmite al servicio de mensajería del sistema operativo correspondiente. No se transmiten otros datos personales del usuario a Expo.
 
-**Google LLC – Firebase Cloud Messaging (EE. UU.)**  
+**Google LLC – Firebase Cloud Messaging (EE. UU.)**
 Servicio del sistema operativo Android encargado de entregar las notificaciones push al dispositivo. Recibe únicamente el token del dispositivo y el contenido del aviso, sin acceso a otros datos del usuario.
 
-**Apple Inc. – Apple Push Notification service (EE. UU.)**  
+**Apple Inc. – Apple Push Notification service (EE. UU.)**
 Servicio del sistema operativo iOS encargado de entregar las notificaciones push al dispositivo. Recibe únicamente el token del dispositivo y el contenido del aviso, sin acceso a otros datos del usuario.
 
 En caso de transferencias internacionales de datos, estas se realizan con las garantías adecuadas conforme al art. 46 RGPD.
@@ -147,7 +147,7 @@ De acuerdo con el RGPD y la LOPDGDD, el usuario tiene derecho a:
 - **Oposición:** Oponerse al tratamiento basado en interés legítimo.
 - **Retirada del consentimiento:** Retirar en cualquier momento el consentimiento prestado.
 
-Para ejercer cualquiera de estos derechos, incluida la **solicitud de eliminación completa de su cuenta y datos**, envíe un correo a privacytzbteam@gmail.com indicando en el asunto «Ejercicio de derechos RGPD» y su nombre completo y correo asociado a la cuenta. Se atenderá la solicitud en un plazo máximo de 30 días naturales.
+Para ejercer cualquiera de estos derechos, incluida la **solicitud de eliminación completa de su cuenta y datos**, envíe un correo a privacy@tzbteam.com indicando en el asunto «Ejercicio de derechos RGPD» y su nombre completo y correo asociado a la cuenta. Se atenderá la solicitud en un plazo máximo de 30 días naturales.
 
 Si considera que el tratamiento de sus datos no es conforme a la normativa, tiene derecho a presentar una reclamación ante la **Agencia Española de Protección de Datos (AEPD)** en www.aepd.es.
 
@@ -180,7 +180,7 @@ En caso de detectarse una brecha de seguridad que afecte a sus datos, se le noti
 
 ## 12. Menores de edad
 
-La Aplicación no está dirigida a menores de 16 años. Si tiene conocimiento de que un menor ha proporcionado datos personales sin consentimiento parental, puede notificarlo en privacytzbteam@gmail.com para proceder a su eliminación.
+La Aplicación no está dirigida a menores de 16 años. Si tiene conocimiento de que un menor ha proporcionado datos personales sin consentimiento parental, puede notificarlo en privacy@tzbteam.com para proceder a su eliminación.
 
 ---
 
@@ -228,7 +228,7 @@ Para la resolución de cualquier controversia, las partes se someten a los Juzga
 
 Para cualquier consulta sobre estos Términos, ejercicio de derechos o solicitud de eliminación de datos:
 
-**Email:** privacytzbteam@gmail.com
+**Email:** privacy@tzbteam.com
 
 Indicar en el asunto el motivo de la consulta (ejercicio de derechos, eliminación de cuenta, consulta legal, etc.).
 
