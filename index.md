@@ -70,9 +70,22 @@ De conformidad con el Reglamento (UE) 2016/679 (RGPD) y la Ley Orgánica 3/2018 
 
 ### 5.4 Datos técnicos
 - Token de sesión (almacenado localmente en el dispositivo)
+- Token de notificaciones push (Expo Push Token), asociado al perfil del usuario para el envío de avisos remotos
 - Estado de conexión
 - Timestamp de última actividad
-- Notificaciones locales programadas en el dispositivo
+- Notificaciones programadas en el dispositivo
+
+### 5.5 Visibilidad de los datos por parte del profesional
+
+Cuando el cliente está vinculado a un profesional dentro de la Aplicación, dicho profesional puede acceder a los siguientes datos del cliente con la finalidad exclusiva de prestar el servicio de asesoría:
+
+- Nombre, fotografía de perfil, edad y objetivo personal
+- Peso, altura, medidas corporales y su histórico
+- Fotografías de progreso físico subidas por el cliente
+- Mensajes intercambiados en el chat privado y archivos compartidos
+- Citas, planes asignados, notas de progreso y recordatorios
+
+El cliente acepta expresamente esta cesión de visibilidad al registrarse y al introducir voluntariamente cada uno de estos datos en la Aplicación. El profesional está sujeto al deber de confidencialidad y solo puede tratar los datos para la finalidad descrita.
 
 ---
 
@@ -110,7 +123,13 @@ Proveedor de base de datos, autenticación y almacenamiento de archivos. Los dat
 Plataforma de videollamadas utilizada en las citas. Solo se genera una URL única a partir del identificador de la cita, sin transmitir datos personales adicionales.
 
 **Expo (EE. UU.)**  
-Plataforma de desarrollo de la Aplicación. Las notificaciones se gestionan de forma local en el dispositivo sin envío de datos a servidores externos.
+Plataforma de desarrollo de la Aplicación y proveedor del servicio de notificaciones push. Cuando se envía una notificación remota (avisos del profesional, recordatorios, confirmaciones de citas, vencimientos de cuota o mensajes), Expo recibe el token de notificación del dispositivo y el contenido del aviso (título y cuerpo) y lo retransmite al servicio de mensajería del sistema operativo correspondiente. No se transmiten otros datos personales del usuario a Expo.
+
+**Google LLC – Firebase Cloud Messaging (EE. UU.)**  
+Servicio del sistema operativo Android encargado de entregar las notificaciones push al dispositivo. Recibe únicamente el token del dispositivo y el contenido del aviso, sin acceso a otros datos del usuario.
+
+**Apple Inc. – Apple Push Notification service (EE. UU.)**  
+Servicio del sistema operativo iOS encargado de entregar las notificaciones push al dispositivo. Recibe únicamente el token del dispositivo y el contenido del aviso, sin acceso a otros datos del usuario.
 
 En caso de transferencias internacionales de datos, estas se realizan con las garantías adecuadas conforme al art. 46 RGPD.
 
@@ -139,7 +158,7 @@ Si considera que el tratamiento de sus datos no es conforme a la normativa, tien
 - **Galería / Biblioteca de fotos:** Para seleccionar fotografías de perfil, imágenes de progreso e imágenes para el chat.
 - **Almacenamiento:** Para guardar imágenes descargadas del chat.
 - **Selector de archivos:** Para adjuntar documentos PDF en el chat.
-- **Notificaciones:** Para enviar recordatorios locales de citas, cuotas y avisos del profesional.
+- **Notificaciones:** Para recibir recordatorios y avisos relacionados con la actividad del usuario en la Aplicación (citas, cuotas, mensajes, avisos del profesional). Las notificaciones pueden generarse de forma local en el dispositivo o de forma remota a través de los servicios de notificaciones push (ver sección 8).
 
 Ninguno de estos permisos se utiliza fuera de las finalidades descritas. El usuario puede revocarlos en cualquier momento desde la configuración de su dispositivo.
 
